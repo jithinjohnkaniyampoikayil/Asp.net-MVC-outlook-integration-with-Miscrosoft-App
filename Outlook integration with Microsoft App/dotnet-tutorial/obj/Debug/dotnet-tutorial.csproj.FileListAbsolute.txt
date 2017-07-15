@@ -1,0 +1,182 @@
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\dotnet-tutorial.dll.config
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\dotnet-tutorial.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\dotnet-tutorial.pdb
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Antlr3.Runtime.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Identity.Client.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Identity.Client.Platform.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.Client.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.Core.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.Edm.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.ProxyExtensions.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Office365.OutlookServices.Portable.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Security.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Spatial.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Newtonsoft.Json.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Owin.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Helpers.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Mvc.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Optimization.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Razor.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.WebPages.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.WebPages.Razor.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\WebGrease.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Antlr3.Runtime.pdb
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Identity.Client.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.Client.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.Core.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.OData.Edm.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Security.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Microsoft.Spatial.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\Newtonsoft.Json.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Helpers.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Mvc.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Razor.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.WebPages.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.WebPages.Razor.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\System.Web.Optimization.xml
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\de\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\es\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\fr\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\it\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ja\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ko\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ru\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\obj\Debug\dotnet-tutorial.csprojResolveAssemblyReference.cache
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\obj\Debug\dotnet-tutorial.dll
+C:\Users\jithin.j\Downloads\dotnet-tutorial-master\dotnet-tutorial-master\dotnet-tutorial\obj\Debug\dotnet-tutorial.pdb
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\dotnet-tutorial.dll.config
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\dotnet-tutorial.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\dotnet-tutorial.pdb
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Antlr3.Runtime.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Identity.Client.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Identity.Client.Platform.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.Client.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.Core.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.Edm.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.ProxyExtensions.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Office365.OutlookServices.Portable.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Security.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Spatial.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Web.Infrastructure.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Newtonsoft.Json.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Owin.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Helpers.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Mvc.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Optimization.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Razor.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.WebPages.Deployment.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.WebPages.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.WebPages.Razor.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\WebGrease.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Antlr3.Runtime.pdb
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Identity.Client.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Identity.Client.Platform.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.Client.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.Core.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.OData.Edm.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Security.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Microsoft.Spatial.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\Newtonsoft.Json.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Helpers.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Mvc.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Razor.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.WebPages.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.WebPages.Deployment.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.WebPages.Razor.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\System.Web.Optimization.xml
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\de\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\es\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\fr\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\it\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ja\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ko\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ru\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hans\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hant\Microsoft.OData.Client.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\de\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\es\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\fr\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\it\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ja\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ko\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ru\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\de\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\es\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\fr\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\it\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ja\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ko\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ru\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\de\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\es\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\fr\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\it\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ja\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ko\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\ru\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hans\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\bin\zh-Hant\Microsoft.Spatial.resources.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\obj\Debug\dotnet-tutorial.csprojResolveAssemblyReference.cache
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\obj\Debug\dotnet-tutorial.dll
+E:\CLARA\ClaraPortal\Dev\Utilities\POC\Outlook integration with Microsoft App\Outlook Integration\dotnet-tutorial\obj\Debug\dotnet-tutorial.pdb
